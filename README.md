@@ -1,4 +1,9 @@
-# TinDog
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+
+<h1> Tindog<i class="fas fa-fire"></i></h1>
+<br>
+<br>
+<br>
 
 
 ## Title Section
