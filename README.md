@@ -16,17 +16,17 @@
 <br>
 <br>
 
-## Courousel Section
+## Carousel Section
 <br>
 <br>
 
-### Courousel 1
+### Carousel 1
 <img width="950" alt="courousel1" src="https://user-images.githubusercontent.com/53862641/109613935-dfad9b80-7b57-11eb-9ed4-5c1f8c791591.png">
 <br>
 <br>
 <br>
 
-### Courousel 2
+### Carousel 2
 <img width="946" alt="courousel2" src="https://user-images.githubusercontent.com/53862641/109614010-fce26a00-7b57-11eb-8b34-37539bf99617.png">
 <br>
 <br>
